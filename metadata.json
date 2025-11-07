@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Personal Expense Tracker",
+  "description": "A comprehensive web application to organize personal expenses. It features login functionality, data analysis with profit and loss statements, and pie chart visualizations. Users can add and modify transactions and switch the interface between English and Arabic. It also includes an AI-powered financial advisor using the Gemini API.",
+  "requestFramePermissions": []
+}
